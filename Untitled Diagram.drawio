@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-12-13T15:27:58.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="yVCKEUw4UdT9wnhNEkDe" version="22.1.8" type="github">
+  <diagram name="Page-1" id="x_zzbibcxwtni13pchnw">
+    <mxGraphModel dx="1042" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fxUM-cAHZDNkcx0BgViu-13" value="" style="group;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="200" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxUM-cAHZDNkcx0BgViu-4" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="fxUM-cAHZDNkcx0BgViu-13">
+          <mxGeometry width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxUM-cAHZDNkcx0BgViu-5" value="Business Logic Layer&lt;br&gt;(Order validation, process)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="fxUM-cAHZDNkcx0BgViu-13">
+          <mxGeometry x="82.5" y="10" width="167.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fxUM-cAHZDNkcx0BgViu-14" value="" style="group;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="110" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxUM-cAHZDNkcx0BgViu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="fxUM-cAHZDNkcx0BgViu-14">
+          <mxGeometry width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxUM-cAHZDNkcx0BgViu-3" value="Presentation layer&lt;br&gt;(User Interaction)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="fxUM-cAHZDNkcx0BgViu-14">
+          <mxGeometry x="95" y="15" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="fxUM-cAHZDNkcx0BgViu-15" value="" style="group;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="290" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxUM-cAHZDNkcx0BgViu-6" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="fxUM-cAHZDNkcx0BgViu-15">
+          <mxGeometry width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxUM-cAHZDNkcx0BgViu-7" value="Data Access Layer&lt;br&gt;(Database Interaction)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="fxUM-cAHZDNkcx0BgViu-15">
+          <mxGeometry x="95" y="15" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fxUM-cAHZDNkcx0BgViu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="fxUM-cAHZDNkcx0BgViu-1" target="fxUM-cAHZDNkcx0BgViu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxUM-cAHZDNkcx0BgViu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="fxUM-cAHZDNkcx0BgViu-4" target="fxUM-cAHZDNkcx0BgViu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
